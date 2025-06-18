@@ -27,10 +27,10 @@ Welcome to KDriveX, the ultimate destination for effortless car rentals. Whether
 Clone the repository :
 
 ```sh
-git clone https://github.com/DarkFeed2005/Modern-Portfolio-Website-Dynamic-Responsive-HTML-CSS-JS.git
+git clone https://github.com/DarkFeed2005/KDriveX-HTML-CSS-JS.git
 ```
 ```bash
-cd portfolio-website
+cd rent a car -website
 ```
 
 
